@@ -4,7 +4,7 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ## Project Overview
 
-- **Website**: [Health Plus](https://alkaison.github.io/Health-Plus/ "Health Plus")
+- **Website**: [Health Plus](https://tds-health-plus.vercel.app/ "Health Plus")
 - **Framework**: React.js
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
@@ -20,13 +20,14 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 
 ## Deployment
+Vercel
 
 The website is deployed using GitHub Pages and can be accessed at 
 ## Getting Started
 
 To run the project locally:
 
-1. Clone this repository: `git clone `
+1. Clone this repository: `git clone https://github.com/SyedaBushraA/TDS-Health-Plus`
 2. Navigate to the project directory: `cd Health-Plus`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
