@@ -5,7 +5,6 @@ import Home from "./Pages/Home";
 import Legal from "./Pages/Legal";
 import NotFound from "./Pages/NotFound";
 import Appointment from "./Pages/Appointment";
-import { HashRouter as Router } from "react-router-dom";
 
 function App() {
   return (
