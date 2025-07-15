@@ -1,7 +1,7 @@
 {
   "name": "health-plus",
   "version": "0.1.0",
-  "homepage": "https://SyedaBushraA.github.io/TDS-Health-Plus",
+  "homepage": "https://syedabushraa.github.io/TDS-Health-Plus",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
