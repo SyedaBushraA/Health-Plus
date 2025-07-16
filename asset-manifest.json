@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TDS-Health-Plus/static/css/main.1bc4a721.css",
-    "main.js": "/TDS-Health-Plus/static/js/main.923deba5.js",
+    "main.js": "/TDS-Health-Plus/static/js/main.2eb33632.js",
     "static/media/doctor-picture.png": "/TDS-Health-Plus/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
     "static/media/doctor-group.png": "/TDS-Health-Plus/static/media/doctor-group.01394386d8270bd40bc1.png",
     "static/media/doctor-book-appointment.png": "/TDS-Health-Plus/static/media/doctor-book-appointment.edb3f4ac282ff3fefaec.png",
     "index.html": "/TDS-Health-Plus/index.html",
     "main.1bc4a721.css.map": "/TDS-Health-Plus/static/css/main.1bc4a721.css.map",
-    "main.923deba5.js.map": "/TDS-Health-Plus/static/js/main.923deba5.js.map"
+    "main.2eb33632.js.map": "/TDS-Health-Plus/static/js/main.2eb33632.js.map"
   },
   "entrypoints": [
     "static/css/main.1bc4a721.css",
-    "static/js/main.923deba5.js"
+    "static/js/main.2eb33632.js"
   ]
 }
